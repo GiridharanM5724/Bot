@@ -1,1 +1,127 @@
 
+UserID: 6155171393 | Time: 2024-08-04 14:16:42.068934 | Command: /bgmi | Target: 20.235.95.214 | Port: 14651 | Time: 80
+Username: UserID: 6155171393
+Target: 20.235.95.214
+Port: 14651
+Time: 80
+
+UserID: 6155171393 | Time: 2024-08-04 14:21:28.394031 | Command: /bgmi | Target: 20.235.95.214 | Port: 14651 | Time: 80
+Username: UserID: 6155171393
+Target: 20.235.95.214
+Port: 14651
+Time: 80
+
+UserID: 6155171393 | Time: 2024-08-04 14:26:48.759726 | Command: /bgmi | Target: 20.204.75.46 | Port: 10480 | Time: 120
+Username: UserID: 6155171393
+Target: 20.204.75.46
+Port: 10480
+Time: 120
+
+UserID: 6155171393 | Time: 2024-08-04 14:33:48.915424 | Command: /bgmi | Target: 20.204.75.46 | Port: 10480 | Time: 120
+Username: UserID: 6155171393
+Target: 20.204.75.46
+Port: 10480
+Time: 120
+
+UserID: 6155171393 | Time: 2024-08-04 14:40:56.439202 | Command: /bgmi | Target: 20.204.75.46 | Port: 10480 | Time: 120
+Username: UserID: 6155171393
+Target: 20.204.75.46
+Port: 10480
+Time: 120
+
+UserID: 1875654345 | Time: 2024-08-04 14:49:16.545820 | Command: /bgmi | Target: 20.18.111.17.1 | Port: 51945 | Time: 180
+Username: UserID: 1875654345
+Target: 20.18.111.17.1
+Port: 51945
+Time: 180
+
+UserID: 1875654345 | Time: 2024-08-04 15:01:47.048908 | Command: /bgmi | Target: 4.213.64.205 | Port: 22044 | Time: 180
+Username: UserID: 1875654345
+Target: 4.213.64.205
+Port: 22044
+Time: 180
+
+UserID: 6155171393 | Time: 2024-08-04 15:50:01.754973 | Command: /bgmi | Target: 20.198.107.63 | Port: 10955 | Time: 280
+Username: UserID: 6155171393
+Target: 20.198.107.63
+Port: 10955
+Time: 280
+
+UserID: 6155171393 | Time: 2024-08-04 15:54:59.874267 | Command: /bgmi | Target: 20.198.107.63 | Port: 10955 | Time: 60
+Username: UserID: 6155171393
+Target: 20.198.107.63
+Port: 10955
+Time: 60
+
+UserID: 1875654345 | Time: 2024-08-04 16:25:03.684447 | Command: /bgmi | Target: 20.235.54.122 | Port: 23238 | Time: 100
+Username: UserID: 1875654345
+Target: 20.235.54.122
+Port: 23238
+Time: 100
+
+UserID: 6531492259 | Time: 2024-08-04 16:57:48.026660 | Command: /bgmi | Target: 20.235.93.249 | Port: 11555 | Time: 100
+Username: @rammodz
+Target: 20.235.93.249
+Port: 11555
+Time: 100
+
+UserID: 6531492259 | Time: 2024-08-04 16:59:41.159335 | Command: /bgmi | Target: 20.235.93.249 | Port: 11555 | Time: 120
+Username: @rammodz
+Target: 20.235.93.249
+Port: 11555
+Time: 120
+
+UserID: 6531492259 | Time: 2024-08-04 17:22:25.310671 | Command: /bgmi | Target: 20.235.93.249 | Port: 11555 | Time: 120
+Username: @rammodz
+Target: 20.235.93.249
+Port: 11555
+Time: 120
+
+UserID: 6155171393 | Time: 2024-08-05 01:49:24.288954 | Command: /bgmi | Target: 20.198.107.63 | Port: 10955 | Time: 30
+Username: UserID: 6155171393
+Target: 20.198.107.63
+Port: 10955
+Time: 30
+
+UserID: 6155171393 | Time: 2024-08-05 01:57:43.686963 | Command: /bgmi | Target: 142.250.182.1 | Port: 443 | Time: 60
+Username: UserID: 6155171393
+Target: 142.250.182.1
+Port: 443
+Time: 60
+
+UserID: 1875654345 | Time: 2024-08-05 07:30:25.893328 | Command: /bgmi | Target: 20.235.54.100 | Port: 23238 | Time: 10
+Username: UserID: 1875654345
+Target: 20.235.54.100
+Port: 23238
+Time: 10
+
+UserID: 6155171393 | Time: 2024-08-05 15:49:17.108868 | Command: /bgmi | Target: 20.198.107.63 | Port: 10955 | Time: 30
+Username: UserID: 6155171393
+Target: 20.198.107.63
+Port: 10955
+Time: 30
+
+UserID: 6155171393 | Time: 2024-08-05 16:07:59.674477 | Command: /bgmi | Target: 20.198.107.63 | Port: 10955 | Time: 30
+Username: UserID: 6155171393
+Target: 20.198.107.63
+Port: 10955
+Time: 30
+
+UserID: 6155171393 | Time: 2024-08-05 16:14:04.561923 | Command: /bgmi | Target: 20.204.180.33 | Port: 29660 | Time: 280
+Username: UserID: 6155171393
+Target: 20.204.180.33
+Port: 29660
+Time: 280
+
+UserID: 6155171393 | Time: 2024-08-06 02:32:48.676242 | Command: /bgmi | Target: 20.235.147.234 | Port: 11401 | Time: 280
+Username: UserID: 6155171393
+Target: 20.235.147.234
+Port: 11401
+Time: 280
+
+UserID: 6155171393 | Time: 2024-08-06 02:33:15.252510 | Command: /bgmi | Target: 20.235.147.234 | Port: 11401 | Time: 280
+Username: UserID: 6155171393
+Target: 20.235.147.234
+Port: 11401
+Time: 280
+

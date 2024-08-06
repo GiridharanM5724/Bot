@@ -11,7 +11,7 @@ import os
 bot = telebot.TeleBot('7445293580:AAGmmEX61ssHeURqHlzFRiGx9B1W9MFkxbE')
 
 # Admin user IDs
-admin_id = ["6155171393"]
+admin_id = ["6155171393","1875654345","6531492259"]
 
 # File to store allowed user IDs
 USER_FILE = "users.txt"
@@ -236,7 +236,7 @@ def handle_bgmi(message):
             target = command[1]
             port = int(command[2])  # Convert time to integer
             time = int(command[3])  # Convert port to integer
-            if time > 500
+            if time > 5000:
                 response = "Error: Time interval must be less than 80."
             else:
                 record_command_logs(user_id, '/bgmi', target, port, time)
